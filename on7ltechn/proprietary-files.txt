@@ -1,0 +1,15 @@
+# ACDB from G6000ZCU1ARA4 (Android 5.1)
+etc/Bluetooth_cal.acdb
+etc/General_cal.acdb
+etc/Global_cal.acdb
+etc/Handset_cal.acdb
+etc/Hdmi_cal.acdb
+etc/Headset_cal.acdb
+etc/Speaker_cal.acdb
+
+# RIL from G6000ZCU1ARA4 (Android 5.1)
+lib/libsec-ril-dsds.so|398daec983135d39526b953a7149d0390592b158
+lib/libsec-ril.so|153656f078747b359db475116c01f670e8b0aecf
+
+# NFC (From https://github.com/NXPNFCProject/NXPNFCC_FW/blob/master/pn548ad/32-bit/libpn548ad_fw.so)
+vendor/firmware/libpn548ad_fw.so|88a35cebace27c3a93439972660f034b
