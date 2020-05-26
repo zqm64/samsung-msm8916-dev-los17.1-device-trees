@@ -20,7 +20,7 @@ set -e
 
 # Required!
 export DEVICE=j3xproltectc
-export DEVICE_COMMON=j3x-common
+export DEVICE_COMMON=j3xpro-common
 export VENDOR=samsung
 
 export SETUP_DEVICE_DIR=1
